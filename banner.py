@@ -4,6 +4,7 @@
 # Author : Subhankar Paul (starlox)
 # Created : 23-03-2024
 # Purpose : Simple Service Banner Grabbing
+# Use python3 banner.py [For Details Information]
 
 import socket
 import sys
