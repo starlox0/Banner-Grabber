@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# Script Name : CVE-2024–24919.py 
+# Author : Subhankar Paul (starlox)
+# Created : 23-03-2024
+# Purpose : Simple Service Banner Grabbing
+
 import socket
 import sys
 
